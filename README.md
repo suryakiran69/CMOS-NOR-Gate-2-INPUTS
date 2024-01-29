@@ -4,12 +4,12 @@ Excited to share my latest project – a CMOS NOR Gate schematic and layout in t
 
 # Schematic
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NAND-Gate/blob/main/Img-1.png)
+![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-1.png))
 
 
 # Test Bench
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NAND-Gate/blob/main/Img-2.png)
+![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-2.png))
 
 # Analyses and Output
 
@@ -22,8 +22,8 @@ Truth Table.
 | 1 | 0 | OFF | ON | ON | OFF | 0 |
 | 1 | 1 | OFF | OFF | ON | ON | 0 |
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NAND-Gate/blob/main/Img-3.png)
+![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-3.png)
 
 # layout
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NAND-Gate/blob/main/Img-4.png)
+![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-4.png)
